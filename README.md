@@ -1,4 +1,4 @@
-# Hi, I'm Bhupinder! 👋
+# Hi, I'm Bhupinder Singh! 👋
 
 I'm a **Blockchain Student** and **Security Enthusiast** currently pursuing my B.Tech at I.K. Gujral Punjab Technical University. I focus on building transparent, AI-driven solutions for real-world problems.
 
